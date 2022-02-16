@@ -1,0 +1,44 @@
+.App-header {
+  background-color: #111c25;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 20vmin;
+  pointer-events: none;
+}
+
+.MetaMask-button {
+  background-color: #353641;
+  color: white;
+  border-radius: 10px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .Logo-container {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-link {
+  color: #1d8aed;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
