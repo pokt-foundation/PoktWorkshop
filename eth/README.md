@@ -15,6 +15,6 @@ token for building along with that session.
 - `python`: Provides a jupyter notebook for interacting with the deployed contract through Pocket Network.
 - `react`: Provides a simple react app for interacting with the deployed contract through MetaMask and Pocket Network.
 - `solidity`: Includes the smart contract implementation of the ERC-1155, as well as a sample truffle configuration for deploying contracts with Pocket Network.
-- `slides`: Includes any slides used build sessions.
+- `slides`: Includes any slides used in build sessions.
 - `items`: The metadata and images currently associated with the uri of the ERC-1155.
 - `install_contracts.sh`: A helper script for quickly copying ABI from truffle's build to the `react` and `python` interfaces
