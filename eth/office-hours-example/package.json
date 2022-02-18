@@ -1,0 +1,15 @@
+{
+  "name": "office-hours-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "blockjoe <69400937+blockjoe@users.noreply.github.com> (https://github.com/blockjoe)",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.5.4"
+  }
+}
